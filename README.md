@@ -2,7 +2,9 @@
 ## Setup Python Virtual Environment
 
 ### Mac OS:
--
+- Ope  command prompt and locate project folder
+- Execyte below command
+      - python -m venv
 
 ## Windows:
 - Open command prompt and traverse to the project folder
